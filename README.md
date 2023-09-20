@@ -10,8 +10,8 @@ My interest are in statistics, data streams, ML on physics, computer vision
 
 ### Studies
 - Diplome d'Ingénieur with specialization in modeling and simulation and Data/IA at ENSTA Paris (2020-2023)
-- Master 2 in Fluid Mechanics at Institut Polytechnique de Paris (concluded)
-- Bachelor of Mechanical Engineering at UFMG (concluded)
+- Master 2 in Fluid Mechanics at Institut Polytechnique de Paris [(concluded) 🎓](https://www.smartcertificate.com/SmartDiploma/Default.aspx?1%7cd53c0d06-95de-499e-be5b-5a9a132098a8%7cfb026fd9-436c-4329-bf71-c388e110f5cb)
+- Bachelor of Mechanical Engineering at UFMG [(concluded) 🎓](Education/ufmg_mec_eng_dipl.pdf)
 
 #### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
