@@ -9,9 +9,9 @@ My interest are in statistics, data streams, ML on physics, computer vision
 - ⚡ Fun fact I do crocheting 🧶 and I ran a semi-marathon in 1h33min 🏃
 
 ### Studies
-- Diplome d'Ingénieur with specialization in modeling and simulation and Data/AI at ENSTA Paris (2020-2023)
-- Master in Fluid Mechanics at Institut Polytechnique de Paris (concluded) 🎓
-- Bachelor of Mechanical Engineering at UFMG (concluded) 🎓
+- Diplome d'Ingénieur with specialization in modeling and simulation and Data/AI at ENSTA Paris
+- Master in Fluid Mechanics at Institut Polytechnique de Paris 
+- Bachelor of Mechanical Engineering at UFMG
 
 #### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
