@@ -1,6 +1,6 @@
 ## Welcome, I'm Pietro Tanure! 👋
 
-I'm a master in Fluid Mechanics and in Applied Mathematics doing Machine Learning and Data Science
+I'm a master in Applied Mathematics and Fluid Mechanics doing Machine Learning and Data Science
 
 My interest are in statistics, data streams, ML on physics, computer vision
 
