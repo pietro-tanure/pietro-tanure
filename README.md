@@ -4,8 +4,8 @@ I'm a master in Applied Mathematics and Fluid Mechanics doing Machine Learning a
 
 My interest are in statistics, data streams, ML on physics, computer vision
 
-- 🔭 I’m currently working on **Python, R, Machine Learning, SQL, AWS**
-- 🌱 I’m currently learning **Java, CSS, Next**
+- 🔭 I’m currently working on **Python, R, Machine Learning, SQL**
+- 🌱 I’m currently learning **Java, CSS, Next, AWS**
 - ⚡ Fun fact I do crocheting 🧶 and I ran a semi-marathon in 1h33min 🏃
 
 ### Studies
